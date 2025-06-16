@@ -28,7 +28,7 @@ NO POLITICS
 
 ## Install
 
-- 📦 [NuGet](https://nuget.org/packages/YoutubeExplode): `dotnet add package YoutubeExplode`
+- Include the DLL as usual
 
 ## Screenshots
 
