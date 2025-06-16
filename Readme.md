@@ -28,7 +28,7 @@ Behind a layer of abstraction, this library works by scraping raw page data and 
 
 - [YoutubeExplode.Converter](YoutubeExplode.Converter) — provides an interface to download and convert videos using FFmpeg
 
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+## Terms of use<sup></sup>
 
 NO POLITICS
 
