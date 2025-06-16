@@ -24,7 +24,7 @@ Behind a layer of abstraction, this library works by scraping raw page data and 
 
 ## Terms of use<sup></sup>
 
-NO POLITICS
+NO POLITICS. Cut out protection from Russians
 
 ## Install
 
